@@ -1,0 +1,55 @@
+.main {
+    text-align: center;
+}
+	h1 {
+		color: orangered;
+		font-size: 45px;
+        text-decoration: underline;
+	}
+
+	/* 3*3 Grid */
+	#btn1, #btn2, #btn3, #btn4, #btn5,#btn6, #btn7, #btn8, #btn9 {
+		width: 80px;
+		height: 60px;
+		margin: auto;
+		border: 1px solid gray;
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+        background-color: rgb(112, 231, 192);
+      
+	}
+
+	/* Reset Button */
+	#reset {
+		box-sizing: border-box;
+		width: 95px;
+		height: 40px;
+		border: 1px solid dodgerblue;
+		margin: auto;
+		border-radius: 4px;
+		font-family: Verdana,
+			Geneva, Tahoma, sans-serif;
+
+		background-color: dodgerblue;
+		color: white;
+		font-size: 20px;
+		cursor: pointer;
+	}
+	/* Player turn space */
+	#result {
+		color: rgb(12, 8, 235);
+		font-size: 30px;
+	}
+	/* Main Container */
+	
+
+.input{
+    background-color: rgb(240, 101, 240);
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
